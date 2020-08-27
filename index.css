@@ -1,0 +1,15 @@
+p {
+    font-family: Arial;
+    font-size: 16px;
+}
+
+body {}
+
+h1 {}
+
+nav {
+    background-color: darksalmon;
+    border: 3px solid whitesmoke;
+    width: 300px;
+    height: 700px;
+}
